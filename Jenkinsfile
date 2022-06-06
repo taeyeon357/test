@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo '20220607-13:07'
+                echo '20220607-1545:07'
             }
         }
     }
